@@ -1,0 +1,15 @@
+Stage 1: Project
+File / project Node js : 02.03.01_index.js 
+File config project : package.json
+File config Heroku - running web : Procfile 
+
+Stage 2: Github
+Create Repositories <A>
+Upload Project (B1)
+
+Stage 3: Heroku Config
+Tao WebAPP - <A - Heroku>
+Connect vao tk Github
+Cau hinh toi repositories <A>
+Deploy project (B1) - <A>
+View Ket qua 
